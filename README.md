@@ -66,8 +66,8 @@ The main objective of this project is to:
 
 ## 📈 **Dashboard Link**
 
-🔗 [View Power BI Dashboard](C:\Users\WELCOME\Pictures\Screenshots)
-
+🔗 **[View Power BI Dashboard](https://app.powerbi.com/)**
+*(Replace with your published dashboard link when available.)*
 ---
 
 ## 🔍 **Project Insights**
