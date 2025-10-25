@@ -66,7 +66,7 @@ The main objective of this project is to:
 
 ## 📈 **Dashboard Link**
 
-🔗 **[View Power BI Dashboard]("C:\Users\WELCOME\Pictures\Screenshots\Screenshot 2025-10-25 093833.png")**
+🔗 **[View Power BI Dashboard](C:\Users\WELCOME\Pictures\Screenshots)**
 
 ---
 
@@ -98,15 +98,3 @@ Overall, this dashboard enhances **data-driven decision-making** and helps impro
 * **DAX (Data Analysis Expressions)**
 * **Excel / CSV**
 * **Data Visualization & Business Analytics**
-
----
-
-## 👨‍💻 **Author**
-
-**Dev [Your Last Name]**
-📧 [[your.email@example.com](mailto:your.email@example.com)]
-🔗 [LinkedIn Profile or Portfolio Link]
-
----
-
-Would you like me to format this README in **GitHub Markdown with emojis, headings, and styling** (so it looks perfectly formatted on GitHub)? I can do that next.
