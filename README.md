@@ -66,7 +66,7 @@ The main objective of this project is to:
 
 ## 📈 **Dashboard Link**
 
-🔗 **[View Power BI Dashboard](https://app.powerbi.com/)**
+🔗 **[View Power BI Dashboard](https://github.com/Debabrataswain3/SALES-FINANCIAL-DATASET-ANALYSIS/blob/main/Screenshot%202025-10-25%20093833.png)**
 *(Replace with your published dashboard link when available.)*
 ---
 
