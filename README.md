@@ -22,7 +22,7 @@ The main objective of this project is to:
 ## 🗂️ **Dataset Used**
 
 * **Dataset Name:** Sales Dataset
-* **Data Source:** [Sample Superstore Dataset (Kaggle)](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+* **Data Source:** [Sample Superstore Dataset (Kaggle)](https://github.com/Debabrataswain3/SALES-FINANCIAL-DATASET-ANALYSIS/blob/main/Sales%20Dataset.csv)
 * **Fields Included:**
 
   * `Order Date`, `Year-Month`
@@ -66,7 +66,7 @@ The main objective of this project is to:
 
 ## 📈 **Dashboard Link**
 
-🔗 **[View Power BI Dashboard](https://app.powerbi.com/)**
+🔗 **[View Power BI Dashboard]("C:\Users\WELCOME\Pictures\Screenshots\Screenshot 2025-10-25 093833.png")**
 
 ---
 
