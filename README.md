@@ -66,7 +66,7 @@ The main objective of this project is to:
 
 ## 📈 **Dashboard Link**
 
-🔗 **[View Power BI Dashboard](C:\Users\WELCOME\Pictures\Screenshots)**
+🔗 [View Power BI Dashboard](C:\Users\WELCOME\Pictures\Screenshots)
 
 ---
 
